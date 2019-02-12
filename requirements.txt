@@ -21,7 +21,7 @@ ftfy==5.5.1
 paramiko==2.4.2
 statsd==3.3.0
 python-sql==1.0.0
-irc
+irc==17.0
 python-magic
 git+https://github.com/fake-name/UniversalArchiveInterface.git
 rpyc
